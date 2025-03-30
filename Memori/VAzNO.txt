@@ -1,0 +1,3 @@
+http://localhost/test//Memori/TractorMemori.html
+
+http://localhost/test//Memori/LogoMemori.html
